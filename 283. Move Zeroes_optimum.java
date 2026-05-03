@@ -9,5 +9,6 @@ class Solution {
                 i++;
             }
         }
+        // we need not to return anything because it is a void method
     }
 }
