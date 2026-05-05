@@ -15,7 +15,7 @@ class Solution {
                         count++;
                     }
                 }else{
-                    if(nums[j] % 2 == 0){
+                    if(nums[j] % 2 == 0){  // increase count if condition valid
                         count++;
                     }
                 }
